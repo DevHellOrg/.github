@@ -7,7 +7,7 @@
     # - languages - https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml
     # - tech stack - https://github.com/github-starter-workflows/repo-analysis-partner/blob/main/tech_stacks.yml
     "categories": [ 
-        "Go"
+        "monitoring"
     ],
     "filePatterns": [ 
         "package.json$",
