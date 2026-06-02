@@ -1,6 +1,6 @@
 {
-    "name": <NAME>, # ⬅️ Required. Fill in with any name
-    "description": <DESCRIPTION>, # ⬅️ Required. 
+    "name": "My workflow Template", # ⬅️ Required. Fill in with any name
+    "description": "the best workflow ever", # ⬅️ Required. 
     "iconName": "example-icon", # ⬅️ SVG file name (without extension!) that is in the workflow directory
     # You can use a value from one of 3 categories:
     # - general - https://github.com/actions/starter-workflows/blob/main/README.md#categories
